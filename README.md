@@ -4,14 +4,18 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
+
+<br>
+
+<h2 align="center" style="color:yellowgreen">Em Construção !!</h2>
 
 <br>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
@@ -20,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - EJS
 - Express
 - SQLite
+  
+<br>
 
 ## 💻 Projeto
 
@@ -27,4 +33,4 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 
 ---
 
-Feito por Everton Oliveira, acompanhando as aulas da Rocketseat
+Sendo criado por Everton Oliveira, acompanhando as aulas da Rocketseat
