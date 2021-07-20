@@ -6,7 +6,9 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 </p>
-![Screenshot](https://github.com/contatoevertonoliveira/jobCalculator/blob/master/images/jobsCalc.jpg?raw=tru)
+```git
+<p align='center'><img src="../master/images/jobsCalc.jpg" width="50%" alt="Screen" /></p>
+```
 
 <br>
 
