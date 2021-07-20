@@ -6,7 +6,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 </p>
-![](.\images\jobsCalc.jpg)
+![Screenshot](https://github.com/contatoevertonoliveira/jobCalculator/blob/master/images/jobsCalc.jpg?raw=tru)
 
 <br>
 
