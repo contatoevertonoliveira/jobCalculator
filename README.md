@@ -6,8 +6,8 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 </p>
-```git
-<p align='center'><img src="../master/images/jobsCalc.jpg" width="50%" alt="Screen" /></p>
+```
+<p align='center'><img src="../master/images/jobsCalc.jpg" width="80%" alt="Screen" /></p>
 ```
 
 <br>
