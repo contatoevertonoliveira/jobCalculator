@@ -6,10 +6,11 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 </p>
+![](https://github.com/contatoevertonoliveira/jobCalculator/blob/master/images/jobsCalc.PNG?raw=true)
 
 <br>
 
-<h2 align="center" style="color:yellowgreen">Em Construção !!</h2>
+<h4 align="center">Projeto concluído! Seguindo as aulas da Rocketseat. Calculadora de Jobs, uma excelente ferramenta para auxiliar na cobrança e no acompanhamento de prestação de serviços. </h4>
 
 <br>
 
@@ -24,7 +25,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - EJS
 - Express
 - SQLite
-  
+
 <br>
 
 ## 💻 Projeto
@@ -33,4 +34,4 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 
 ---
 
-Sendo criado por Everton Oliveira, acompanhando as aulas da Rocketseat
+Recriado por Everton Oliveira, acompanhando as aulas da Rocketseat
